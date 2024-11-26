@@ -1,5 +1,5 @@
 package dk.easv.exemplelessons;
 
 public class TestClass {
-    int b;
+    int b =15;
 }
